@@ -95,19 +95,23 @@ function openGift() {
   overlay.classList.add("gift-screen");
   overlay.innerHTML = `
     <div class="gift-box">
-      <h4>💌 Carta especial</h4>
+      <h2>💌 Carta especial</h2>
       <p>¡¡Holaa Sara!!</p>
-      <p>Llevaba unos días pensando en hacerte un regalo. Ya te veo diciendo que no hace falta, pero a mi me nace, de
-      verdad.</p>
-      <p> Sara, eres una profesora excelente, y no solo eso, sino que eres una persona increíble. Cada momento que paso
-      contigo, me lo paso en grande. Además, no tengo ninguna necesidad de actuar o intentar encajar y me das un respiro
-      muy grande. </p>
-      <p> Tengo la satisfacción de poder decir que cada pregunta que he tenido y cada error que he cometido en los exámenes,
-      ha valido la pena para no cometerlos en selectividad. </p>
-      <p> También, me alegro mucho de que me dijeras mis notas de las PAU. Al principio, cuando me preguntaste si quiería
-      que fueras a apuntártelas, dudé por si no me salia bien la cosa. Menos mal que te dije que sí, porque sé que si me
-      hubiese esperado a llegar a casa y verlas sola, no me habría alegrado tanto. Al final, me ha hecho mucha ilusión
-      ver las notas juntas. </p> 
+      <p> Primero de todo, muchas felicidades por tu cumpleaños. 🎉🎉 </p>
+      <p> Segundo, esto no es una carta de despedida, sino una carta de agradecimiento.   </p>
+      <p> Pues, quiero que sepas que estoy completamente satisfecha con el curso y ha sido un placer (dentro de toda la presión por la PAU y los exámenes...).   </p>
+      <p> También, me alegro mucho de haber visto mis notas de la selectividad contigo. Sé que si lo hubiese visto sola en casa, aunque el resultado es bueno, yo me 
+      acabaría exigiendo más y no estaría tan plena. Cuando estabamos sentadas calculando la nota y vi que iba sobrada, me sentí aliviada, pero la emoción al momento se
+      la diste tú. Sigo pensando en que te hacía más ilusión verlas que a mí y esa ilusión me la contagiaste. Sentí la misma sensación de cuando era pequeña y abría los regalos 
+      de navidad. Este recuerdo se quedará bien guardado en mi disco duro. 😉</p> 
+      <p> Además, me gustaría contarte lo feliz que me hizo que vinieras a la graduación. Al principio, pensé que no ibas a llegar, pero en los últimos minutos antes de entrar 
+      a la sala, te vi pasar y me hizo muchísima ilusión. Al fin y al cabo, sí, todos los profesores que me han dado clase, han estado y me han ayudado durante el curso, pero
+      la que me ha acompañado de verdad, eres tú. ( Y literalmente, de un lado a otro del centro, jajaja). Ya tenía un motivo para subirme al escenario.  </p>
+      <p> ¡¡¡Buaaah, encima me pillaste para bailar después de la cena!!! No he bailado en mi vida y me daba miedo pisarte. En verdad, me lo pasé genial y si pudiera 
+      volver a repetirlo, lo haría. 💃 </p>
+      <p> En fin, ojalá seguir charlando mientras vamos de un lado a otro del insti y ojalá poder seguir en tus guardias de la biblio los viernes. Que efímero todo.</p>
+      <p> ¡Saraaaa, eres un soool! ☀️</p>
+      <p> Con cariño, Alejandra. 💖</p>
       <button id="closeGift">Cerrar</button>
     </div>
   `;
