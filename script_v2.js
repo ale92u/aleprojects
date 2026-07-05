@@ -95,7 +95,7 @@ function openGift() {
   overlay.classList.add("gift-screen");
   overlay.innerHTML = `
     <div class="gift-box">
-      <h2>💌 Carta especial</h2>
+      <h2>💌</h2>
       <p>¡¡Holaa Sara!!</p>
       <p> Primero de todo, muchas felicidades por tu cumpleaños. 🎉🎉 </p>
       <p> Segundo, esto no es una carta de despedida, sino una carta de agradecimiento.   </p>
@@ -117,9 +117,11 @@ function openGift() {
   `;
 
   document.body.appendChild(overlay);
+  document.body.style.overflow = "hidden";
   document.getElementById("closeGift").onclick = () => {
     overlay.remove();
     hideMessage();
+    document.body.style.overflow = "auto";
   };
 }
 
