@@ -102,15 +102,14 @@ function openGift() {
       <p> Pues, quiero que sepas que estoy completamente satisfecha con el curso y ha sido un placer (dentro de toda la presión por la PAU y los exámenes...).   </p>
       <p> También, me alegro mucho de haber visto mis notas de la selectividad contigo. Sé que si lo hubiese visto sola en casa, aunque el resultado es bueno, yo me 
       acabaría exigiendo más y no estaría tan plena. Cuando estabamos sentadas calculando la nota y vi que iba sobrada, me sentí aliviada, pero la emoción al momento se
-      la diste tú. Sigo pensando en que te hacía más ilusión verlas que a mí y esa ilusión me la contagiaste. Sentí la misma sensación de cuando era pequeña y abría los regalos 
-      de navidad. Este recuerdo se quedará bien guardado en mi disco duro. 😉</p> 
+      la diste tú. Sigo pensando en que te hacía más ilusión verlas que a mí y esa ilusión me la contagiaste. Este recuerdo se quedará bien guardado en mi disco duro. 😉</p> 
       <p> Además, me gustaría contarte lo feliz que me hizo que vinieras a la graduación. Al principio, pensé que no ibas a llegar, pero en los últimos minutos antes de entrar 
       a la sala, te vi pasar y me hizo muchísima ilusión. Al fin y al cabo, sí, todos los profesores que me han dado clase, han estado y me han ayudado durante el curso, pero
       la que me ha acompañado de verdad, eres tú. ( Y literalmente, de un lado a otro del centro, jajaja). Ya tenía un motivo para subirme al escenario.  </p>
       <p> ¡¡¡Buaaah, encima me pillaste para bailar después de la cena!!! No he bailado en mi vida y me daba miedo pisarte. En verdad, me lo pasé genial y si pudiera 
       volver a repetirlo, lo haría. 💃 </p>
-      <p> En fin, ojalá seguir charlando mientras vamos de un lado a otro del insti y ojalá poder seguir en tus guardias de la biblio los viernes. Que efímero todo.</p>
-      <p> ¡Saraaaa, eres un soool! ☀️</p>
+      <p> En fin, ojalá seguir charlando mientras vamos de un lado a otro del insti y ojalá poder seguir en tus guardias de la biblio los viernes.</p>
+      <p>  Gracias por todo Sara. ☀️</p>
       <p> Con cariño, Alejandra. 💖</p>
       <button id="closeGift">Cerrar</button>
     </div>
